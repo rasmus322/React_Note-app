@@ -1,0 +1,47 @@
+{
+  "4080a8c6-7f64-4a27-8dbd-85e6c7a15f28": {
+    "id": "4080a8c6-7f64-4a27-8dbd-85e6c7a15f28",
+    "email": "optimisist@gmail.com",
+    "username": "user"
+  },
+  "0e171b1a-eb1f-458c-b382-ad74125f606e": {
+    "id": "0e171b1a-eb1f-458c-b382-ad74125f606e",
+    "email": "test@gmail.com",
+    "username": "rasmus"
+  },
+  "ee3e8c3e-ebd8-4a02-981e-124f28d8f4bd": {
+    "id": "ee3e8c3e-ebd8-4a02-981e-124f28d8f4bd",
+    "email": "user@gmail.com",
+    "username": "user"
+  },
+  "983b9422-4a9f-47dc-bc29-fda8a05ad3d8": {
+    "id": "983b9422-4a9f-47dc-bc29-fda8a05ad3d8",
+    "email": "rasmus@gmail.com",
+    "username": "rasmus"
+  },
+  "069b73ad-e2b7-498d-9c64-45b6ed154cb9": {
+    "id": "069b73ad-e2b7-498d-9c64-45b6ed154cb9",
+    "email": "rasmus@yandex.ru",
+    "username": "rasmus"
+  },
+  "b1ada3c2-d5bd-4b87-a476-3b5e7af63147": {
+    "id": "b1ada3c2-d5bd-4b87-a476-3b5e7af63147",
+    "email": "vlad@gmail.com",
+    "username": "vladik"
+  },
+  "fece7d87-268a-4572-88ab-cf4cc2cc3767": {
+    "id": "fece7d87-268a-4572-88ab-cf4cc2cc3767",
+    "email": "galina@gmail.com",
+    "username": "galina"
+  },
+  "29f80f50-0d5a-457c-87c1-6887d7bd873b": {
+    "id": "29f80f50-0d5a-457c-87c1-6887d7bd873b",
+    "email": "vlados@gmail.com",
+    "username": "VladOS"
+  },
+  "23481d49-ce4c-4ebb-8df7-dd8e9dc15dfd": {
+    "id": "23481d49-ce4c-4ebb-8df7-dd8e9dc15dfd",
+    "email": "testik@gmail.com",
+    "username": "vlados"
+  }
+}

@@ -1,2 +1,10 @@
-# React_Note-app
-This is a React app, for leaving notes, for multiple users
+# Проект "Личные заметки"
+
+- [Клиентская часть](./client/README.md)
+- [Серверная часть](./server/README.md)
+
+
+
+Пример отображения интерфейса приложения:
+- [Авторизация](./example/auth.jpg)
+- [Список заметок](./example/noteList.jpg)
